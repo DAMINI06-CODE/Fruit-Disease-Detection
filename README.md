@@ -26,4 +26,4 @@ To develop an AI-powered model capable of identifying diseases in various fruits
 - Contains labeled images of **healthy** and **diseased** fruit conditions.
 - Organized by fruit type and disease class in separate folders.
 
-Example structure:
+
